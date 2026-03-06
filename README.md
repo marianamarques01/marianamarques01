@@ -1,12 +1,3 @@
-
-### Sobre mim
-
-- Desenvolvedora Fullstack 
-- Apaixonada por criar solucoes completas, do backend ao frontend
-- Sempre aprendendo e explorando novas tecnologias
-
----
-
 ### Tech Stack
 
 <table>
