@@ -16,7 +16,7 @@
 
 ### Sobre mim
 
-- Desenvolvedora Fullstack
+- Desenvolvedora Fullstack 
 - Apaixonada por criar solucoes completas, do backend ao frontend
 - Sempre aprendendo e explorando novas tecnologias
 
@@ -109,24 +109,3 @@
     </td>
   </tr>
 </table>
-
----
-
-### GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marianamarques01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianamarques01&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marianamarques01&theme=tokyonight" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=marianamarques01&color=blueviolet&style=flat-square" />
-</div>
