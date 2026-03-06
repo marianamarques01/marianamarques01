@@ -1,4 +1,28 @@
-Stacks:
+<h1 align="center">Oi, eu sou a Mariana <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Always+learning+new+things" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/feed/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### Sobre mim
+
+- Desenvolvedora Fullstack
+- Apaixonada por criar solucoes completas, do backend ao frontend
+- Sempre aprendendo e explorando novas tecnologias
+
+---
+
+### Tech Stack
 
 <table>
   <tr>
@@ -7,7 +31,7 @@ Stacks:
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
         width="48"
         height="48"
-        alt="TypeScript"
+        alt="JavaScript"
       />
       <br /><strong>JavaScript</strong>
     </td>
@@ -29,7 +53,7 @@ Stacks:
       />
       <br /><strong>Angular</strong>
     </td>
-      <td align="center" height="108" width="108">
+    <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg"
         width="48"
@@ -79,9 +103,30 @@ Stacks:
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
         width="48"
         height="48"
-        alt="MongoDB"
+        alt="PostgreSQL"
       />
-      <br /><strong>Postgre</strong>
+      <br /><strong>PostgreSQL</strong>
     </td>
   </tr>
 </table>
+
+---
+
+### GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marianamarques01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianamarques01&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marianamarques01&theme=tokyonight" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=marianamarques01&color=blueviolet&style=flat-square" />
+</div>
